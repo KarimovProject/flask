@@ -13,6 +13,7 @@ def hom():
     b = int(r['b'])
     s = a+b
     
+    
     return f'summa: {s}'
 
 if __name__=='__main__':
